@@ -17,7 +17,7 @@ I'm a Biomedical Engineer with a desire to make a change. I have a keen interest
 * Apache Spark (PySpark)
 * Apache Airflow
 * Shell
-* ![image](https://user-images.githubusercontent.com/84285130/223697069-dea0e51f-78f5-4d08-a285-4e33fd9a2375.png) Bash
+* Bash
 
 ### 📝 Writing:
 
