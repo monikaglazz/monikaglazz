@@ -5,6 +5,10 @@ I'm a Biomedical Engineer with a desire to make a change. I have a keen interest
 * 🧗‍♀️ Indoor Climbing - my preferred style of exercise
 * 🖌️ Digital Art
 
+### 📓 My Portfolio
+
+Check it out: [click me!](https://github.com/monikaglazz/Portfolio)
+
 
 ### 🧠 Currently known technologies
 * Python and i.a:
